@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fwzHVAqRmGj7ZWHKYI0KIYlpKLQnk2kRqsEsNTL9D5ZOMGf5lsl3EUaxuw+pqMtZHxo6gwlNuNod7JFOkFqMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\britt\\Desktop\\TICTACTOE\\Network\\Network.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

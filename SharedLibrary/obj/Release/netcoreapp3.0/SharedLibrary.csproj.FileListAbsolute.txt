@@ -1,0 +1,8 @@
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\bin\Release\netcoreapp3.0\SharedLibrary.deps.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\bin\Release\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\bin\Release\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\obj\Release\netcoreapp3.0\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\obj\Release\netcoreapp3.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\obj\Release\netcoreapp3.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\obj\Release\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\SharedLibrary\obj\Release\netcoreapp3.0\SharedLibrary.pdb

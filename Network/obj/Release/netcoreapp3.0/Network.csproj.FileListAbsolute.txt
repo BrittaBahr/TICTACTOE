@@ -1,0 +1,13 @@
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\bin\Release\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\Network\obj\Release\netcoreapp3.0\Network.pdb

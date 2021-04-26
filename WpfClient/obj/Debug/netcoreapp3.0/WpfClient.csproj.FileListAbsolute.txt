@@ -1,0 +1,484 @@
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 14 nur noch Spiel\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.genruntimeconfig.cache
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.exe
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.deps.json
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.json
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.runtimeconfig.dev.json
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csprojAssemblyReference.cache
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.g.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.g.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.cache
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient_MarkupCompile.lref
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\LobbyWindow.baml
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WelcomeWindow.baml
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.g.resources
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfoInputs.cache
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.AssemblyInfo.cs
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.csproj.CopyComplete
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.dll
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.pdb
+C:\Users\britt\Desktop\TICTACTOE\WpfClient\obj\Debug\netcoreapp3.0\WpfClient.genruntimeconfig.cache

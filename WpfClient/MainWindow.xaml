@@ -1,0 +1,92 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:converter="clr-namespace:WpfClient.Converters"
+        xmlns:local="clr-namespace:WpfClient"
+        mc:Ignorable="d"
+        Title="TicTacToe" Height="450" Width="800">
+    <Window.Resources>
+        <converter:AlphaRedGreenBlueToColorConverter x:Key="ColorConverter" />
+        <converter:NullToVisibilityConverter x:Key="NullVisConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Center" Visibility="{Binding WhosTurn, Converter={StaticResource NullVisConverter}}">
+            <Label.Background>
+                <SolidColorBrush Color="{Binding ActivePlayerVM.ARGB, Converter={StaticResource ColorConverter}}"/>
+            </Label.Background>
+
+            <StackPanel HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+
+                <TextBlock FontSize="24" Margin="0 0 5 0">Current Player:</TextBlock>
+                <TextBlock FontSize="24" Text="{Binding WhosTurn}"/>
+            </StackPanel>
+        </Label>
+
+        <!--Game Field-->
+        <ItemsControl Grid.Column="0" Grid.Row="1" ItemsSource="{Binding FieldVM}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Columns="{Binding FieldVM.Count}"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <ItemsControl ItemsSource="{Binding}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Rows="{Binding Count}"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Button>
+                                    <Button.Style>
+                                        <Style TargetType="{x:Type Button}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Winner}" Value="{x:Null}">
+                                                    <Setter Property="Command" Value="{Binding CellCommand}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IsEnabled}" Value="False">
+                                                    <Setter Property="Command" Value="{x:Null}"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                    <Button.Background>
+                                        <SolidColorBrush Color="{Binding ARGB, Converter={StaticResource ColorConverter}}"/>
+                                    </Button.Background>
+                                </Button>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <!--Show Winner-->
+        <Label Grid.Column="0" Grid.Row="2" HorizontalContentAlignment="Center" Visibility="{Binding Winner, Converter={StaticResource NullVisConverter}}">
+            <Label.Background>
+                <SolidColorBrush Color="{Binding Winner.ARGB, Converter={StaticResource ColorConverter}}"/>
+            </Label.Background>
+
+            <StackPanel HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+
+                <TextBlock FontSize="24" Margin="0 0 5 0">Winner:</TextBlock>
+                <TextBlock FontSize="24" Text="{Binding WhoWins}"/>
+            </StackPanel>
+        </Label>
+    </Grid>
+</Window>

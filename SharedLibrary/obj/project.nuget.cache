@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGyYlI1Pi4H9ixAwRqB/oi7HW0krXmFNCUalwnPXjvwlRy/1H25PbsxVUdmtj/GOd4Ho6lgkCgkUX7395KTkQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\britt\\Desktop\\TICTACTOE\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

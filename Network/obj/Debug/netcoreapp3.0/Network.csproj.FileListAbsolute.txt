@@ -1,0 +1,132 @@
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Britta Bahr\Desktop\stand 5\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\Stand 6 erhelten Receive Nachricht hi\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 8\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Britta Bahr\Desktop\Stand 16\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\Stand 18\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\Svenja\Desktop\letzerVersuche 2\gefixt\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CoreCompileInputs.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Downloads\Arnold_Bahr_Bahr\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.dll
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\britt\Desktop\TICTACTOE\Network\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CoreCompileInputs.cache
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.csproj.CopyComplete
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\britt\Desktop\TICTACTOE\Network\obj\Debug\netcoreapp3.0\Network.pdb

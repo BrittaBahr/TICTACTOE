@@ -1,0 +1,11 @@
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\bin\Release\netcoreapp3.0\TicTacToeGameLogic.deps.json
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\bin\Release\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\bin\Release\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\bin\Release\netcoreapp3.0\SharedLibrary.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\bin\Release\netcoreapp3.0\SharedLibrary.pdb
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.csproj.CopyComplete
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\fertig\Endabgabe\TICTACTOE\TicTacToeGameLogic\obj\Release\netcoreapp3.0\TicTacToeGameLogic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.csprojAssemblyReference.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.AssemblyInfoInputs.cache
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.AssemblyInfo.cs
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\bin\Debug\netcoreapp3.0\TcpNetwork.deps.json
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\bin\Debug\netcoreapp3.0\TcpNetwork.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\bin\Debug\netcoreapp3.0\TcpNetwork.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\bin\Debug\netcoreapp3.0\TicTacToeGameLogic.pdb
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.csproj.CopyComplete
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.dll
+C:\Users\Svenja\Desktop\nw projekt tictac\TICTACTOE\TcpNetwork\obj\Debug\netcoreapp3.0\TcpNetwork.pdb
